@@ -4,31 +4,36 @@
             "id": 10001,
             "name": "Basics to Advanced In React",
             "price": 29,
-            "in_stock": true
+            "in_stock": true,
+            "discount": "yes"
         },
         {
             "id": 10002,
             "name": "Django Feamework for Beginners",
             "price": 39,
-            "in_stock": true
+            "in_stock": true,
+            "discount": "yes"
         },
         {
             "id": 10003,
             "name": "Complete Guide for Backend Development",
             "price": 49,
-            "in_stock": true
+            "in_stock": true,
+            "discount": "yes"
         },
         {
             "id": 10004,
             "name": "Build a blockchain from scratch in Go",
             "price": 19,
-            "in_stock": false
+            "in_stock": false,
+            "discount": "no"
         },
         {
             "id": 10005,
             "name": "Build a blockchain from scratch in React",
             "price": 23,
-            "in_stock": false
+            "in_stock": false,
+            "discount": "no"
         }
     ]
 }
